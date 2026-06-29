@@ -1,6 +1,6 @@
-# Elite20 Builder OS
+# Elite20 Builder Program / NSEAP
 
-Elite20 Builder OS is the MVP design repository for AI+X Phase II.
+Elite20 Builder Program / NSEAP is the MVP design repository for AI+X Phase II.
 
 The first goal is not to build a full LMS. The first goal is to make the Builder workflow run:
 
